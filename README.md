@@ -3,7 +3,7 @@
 
 | Projetos             | Descrição | Status |
 |----------------------|-----------|--------|
-| [Primeiro App]()     |           |   ✔️   |
+| [Primeiro App](./PrimeiroApp)     |           |   ✔️   |
 | [Projeto Sorteio]()  |           |   ✔️   | 📺  🚧
 
 
