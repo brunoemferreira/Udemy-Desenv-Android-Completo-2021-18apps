@@ -1,0 +1,4 @@
+com/cursoandroid/primeiroapp/BuildConfig.java
+ com.cursoandroid.primeiroapp.BuildConfig
+com/cursoandroid/primeiroapp/MainActivity.java
+ com.cursoandroid.primeiroapp.MainActivity
